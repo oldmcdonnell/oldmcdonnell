@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.deviantart.com/aliramojo/art/some-arts-a1-146288720">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.deviantart.com/aliramojo/art/some-arts-a1-146288720">
+ <img alt="YOUR-ALT-TEXT" src="https://www.deviantart.com/aliramojo/art/some-arts-a1-146288720">
+</picture>
+
+
+## About me
+
+
+<details>
+<summary>My top languages</summary>
+  
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| SQL       |
+|     3| Mel       |
+
+</details>
+
+
+<!-- TO DO: add more details about me later -->
