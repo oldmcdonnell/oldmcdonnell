@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 
 
 <!-- TO DO: add more details about me later -->
+
+---
+> A joyous story of how the best can befall the worst of us, or vice versa.
