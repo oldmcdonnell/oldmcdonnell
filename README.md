@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.deviantart.com/aliramojo/art/some-arts-a1-146288720">
- <source media="(prefers-color-scheme: light)" srcset="https://www.deviantart.com/aliramojo/art/some-arts-a1-146288720">
+
 <img alt="painting" src="https://github.com/oldmcdonnell/oldmcdonnell.github.io/blob/dev/img/PIC.jpg">
-</picture>
+
 
 
 ## About me
