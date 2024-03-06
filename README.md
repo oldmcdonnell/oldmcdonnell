@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="painting" src="https://github.com/oldmcdonnell/oldmcdonnell.github.io/blob/dev/img/PIC.jpg">
+<img alt="painting" src="https://github.com/oldmcdonnell/oldmcdonnell.github.io/blob/dev/img/PIC.jpg" width="200" height="400"/>
 
 
 
