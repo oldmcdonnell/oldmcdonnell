@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.deviantart.com/aliramojo/art/some-arts-a1-146288720">
  <source media="(prefers-color-scheme: light)" srcset="https://www.deviantart.com/aliramojo/art/some-arts-a1-146288720">
- <img alt="YOUR-ALT-TEXT" src="https://www.deviantart.com/aliramojo/art/some-arts-a1-146288720">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/oldmcdonnell/oldmcdonnell.github.io/blob/dev/img/PIC.jpg">
 </picture>
 
 
