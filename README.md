@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| SQL       |
-|     3| Mel       |
+|     2| Javascript|
+|     3| SQL       |
+|     4| AS        |
+|     5| Mel       |
+|     6| PHP       |
 
 </details>
 
