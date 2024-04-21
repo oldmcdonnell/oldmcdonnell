@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 |     4| AS        |
 |     5| Mel       |
 |     6| PHP       |
+|     7| Java      |
+|     8| Bash       |
 
 </details>
 
