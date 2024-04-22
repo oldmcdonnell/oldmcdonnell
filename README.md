@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 |     2| Javascript|
 |     3| SQL       |
 |     4| AS        |
-|     5| Mel       |
+|     5| Java       |
 |     6| PHP       |
-|     7| Java      |
+|     7| Mel     |
 |     8| Bash       |
 
 </details>
