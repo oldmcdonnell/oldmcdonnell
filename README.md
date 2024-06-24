@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 |-----:|-----------|
 |     1| Python    |
 |     2| Javascript|
-|     3| SQL       |
-|     4| AS        |
+|     3| React       |
+|     4| SQL        |
 |     5| Java       |
 |     6| PHP       |
 |     7| Mel     |
