@@ -30,11 +30,14 @@ Here are some ideas to get you started:
 |     1| Python    |
 |     2| Javascript|
 |     3| React       |
-|     4| SQL        |
-|     5| Java       |
-|     6| PHP       |
-|     7| Mel     |
+|     4| Django        |
+|     6| T-SQL        |
+|     7| Java       |
 |     8| Bash       |
+|     9| Mel     |
+|     10| PHP       |
+|     11| C       |
+
 
 </details>
 
