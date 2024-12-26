@@ -27,16 +27,16 @@ Here are some ideas to get you started:
   
 | Rank | Languages |
 |-----:|-----------|
-|     1| Python    |
-|     2| Javascript|
-|     3| React       |
-|     4| Django        |
-|     6| T-SQL        |
+|     1| TypeScript    |
+|     2| JavaScript  |
+|     3| Python      |
+|     4| Node JS    |
+|     5| React     |
+|     6| SQL - everything but noSQL       |
 |     7| Java       |
 |     8| Bash       |
 |     9| Mel     |
 |     10| PHP       |
-|     11| C       |
 
 
 </details>
