@@ -73,6 +73,4 @@ I specialize in building and stabilizing real-world production systems — from 
 ---
 
 > "Build systems that work. Fix systems that don’t. Understand why."
----
 
-## 📊 GitHub Activity (Language Distribution)
