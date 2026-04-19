@@ -65,12 +65,6 @@ I specialize in building and stabilizing real-world production systems — from 
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oldmcdonnell&layout=compact&theme=dark)
-
----
-
 ## 📫 Contact
 
 - GitHub: https://github.com/oldmcdonnell  
@@ -79,3 +73,6 @@ I specialize in building and stabilizing real-world production systems — from 
 ---
 
 > "Build systems that work. Fix systems that don’t. Understand why."
+---
+
+## 📊 GitHub Activity (Language Distribution)
